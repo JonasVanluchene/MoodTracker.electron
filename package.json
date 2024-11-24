@@ -1,0 +1,15 @@
+{
+  "name": "moodtrackerelectron",
+  "version": "0.0.1",
+  "description": "MoodTracker App",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jonas",
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "electron": "^33.2.0"
+  }
+}
